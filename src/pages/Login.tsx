@@ -101,7 +101,7 @@ export default function Login() {
 
           <div className="mt-6 pt-4 border-t">
             <p className="text-xs text-muted-foreground text-center">
-              للدخول كمدير: رقم الهوية <span className="font-heading font-medium" dir="ltr">1000000001</span> وكلمة المرور <span className="font-heading font-medium" dir="ltr">admin123</span>
+               برمجة وتنفيذ : الاستاذ  <span className="font-heading font-medium" dir="ltr">ايهاب جمال غزال</span> جميع الحقوق محفوظة  <span className="font-heading font-medium" dir="ltr">Ehabg84@gmail.com</span>
             </p>
           </div>
         </div>
